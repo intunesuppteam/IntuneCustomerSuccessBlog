@@ -1,0 +1,152 @@
+{
+    "kind": "androidenterprise#managedConfiguration",
+    "productId": "app:com.microsoft.launcher",
+    "managedProperty": [
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement",
+            "valueString": "Top"
+        },
+        {
+            "key": "com.microsoft.launcher.Search.SearchBar.Placement.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode",
+            "valueString": "Show"
+        },
+        {
+            "key": "com.microsoft.launcher.Dock.Mode.UserChangeAllowed",
+            "valueBool": true
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.GridSize",
+            "valueString": "4;5"
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Feed.Enable",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url",
+            "valueString": "You need to put in your own wallpaper image URL"
+        },
+        {
+            "key": "com.microsoft.launcher.Wallpaper.Url.UserChangeAllowed",
+            "valueBool": false
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.Applications",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.emmx"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.teams"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.outlook"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "com.microsoft.launcher.HomeScreen.AppOrder",
+            "valueBundleArray": [
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 3
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.office.outlook"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 1
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.emmx"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                },
+                {
+                    "managedProperty": [
+                        {
+                            "key": "type",
+                            "valueString": "application"
+                        },
+                        {
+                            "key": "position",
+                            "valueInteger": 2
+                        },
+                        {
+                            "key": "package",
+                            "valueString": "com.microsoft.teams"
+                        },
+                        {
+                            "key": "class",
+                            "valueString": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
