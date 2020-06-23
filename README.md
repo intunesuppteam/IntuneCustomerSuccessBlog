@@ -12,7 +12,7 @@ Have a look below on a few resources to stay up to date with Intune:
 
 ## Questions and comments
 
-We'd love to get your feedback about our content. You can send your questions and suggestions to us in the Issues section of this repository or via [Twitter:] (https://aka.ms/IntuneSuppTeam).
+We'd love to get your feedback about our content. You can send your questions and suggestions to us in the Issues section of this repository or via [Twitter](https://aka.ms/IntuneSuppTeam).
 
 ## Additional resources
 
