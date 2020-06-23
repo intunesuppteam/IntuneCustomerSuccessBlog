@@ -1,4 +1,4 @@
-# Welcome to the Intune Customer Success Blog [Support As a Feature (SaaF)] GitHub!
+# Welcome to the Intune Customer Success Blog - Support As a Feature (SaaF) GitHub!
 
 This repository hosts files we can't quite add to our TechCommunity blogs. So we are hosting it here!
 
@@ -8,11 +8,11 @@ Have a look below on a few resources to stay up to date with Intune:
 * [What's new in Microsoft Intune](https://docs.microsoft.com/mem/intune/fundamentals/whats-new)
 * [In development for Microsoft Intune](https://docs.microsoft.com/mem/intune/fundamentals/in-development)
 * [Microsoft 365 Roadmap for Microsoft Intune](https://aka.ms/UEMroadmap)
-* [https://techcommunity.microsoft.com/t5/intune-customer-success/new-intune-readiness-amp-planning-content-intune-launches-the-in/ba-p/359906](Intune Readiness & Planning Content)
+* [Intune Readiness & Planning Content](https://techcommunity.microsoft.com/t5/intune-customer-success/new-intune-readiness-amp-planning-content-intune-launches-the-in/ba-p/359906)
 
 ## Questions and comments
 
-We'd love to get your feedback about our content. You can send your questions and suggestions to us in the Issues section of this repository or via Twitter: https://aka.ms/IntuneSuppTeam
+We'd love to get your feedback about our content. You can send your questions and suggestions to us in the Issues section of this repository or via [Twitter:] (https://aka.ms/IntuneSuppTeam).
 
 ## Additional resources
 
